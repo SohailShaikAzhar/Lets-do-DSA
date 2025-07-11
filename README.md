@@ -21,3 +21,4 @@ Includes clean code, optimized solutions, and categorized problem sets (Easy/Med
 
 -->Day - 2
    1. Contains Duplicate (Brute Force Approach)
+   2. Contains Duplicate (HashMap Approach)
