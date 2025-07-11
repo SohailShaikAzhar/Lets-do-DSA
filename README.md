@@ -48,7 +48,7 @@ Stay tuned as I commit more days and problem sets 💪
 
 ### 🔗 Useful Links
 - [NeetCode.io](https://neetcode.io/)
-- [LeetCode Profile](#https://leetcode.com/u/azharsohail/)
+- [LeetCode Profile](https://leetcode.com/u/azharsohail/)
 
 ---
 
